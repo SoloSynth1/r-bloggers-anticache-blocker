@@ -20,7 +20,7 @@ You must have adblocker installed in your browser. (duh)
 
 Just literally import the filter list (in plain-text format) below to your favourite adblocker:
 ```
-https://github.com/SoloSynth1/r-bloggers-anticache-blocker/placeholder.txt
+https://raw.githubusercontent.com/SoloSynth1/r-bloggers-anticache-blocker/master/filter-list.txt
 ```
 
 And enjoy! No more pesky ads overwriting the blog posts.
